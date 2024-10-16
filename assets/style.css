@@ -1,0 +1,31 @@
+.style {
+    text-decoration: line-through;
+}
+
+body{
+    text-align:center;
+    margin: 0;
+    font-size: 50px;
+    width: 90%;
+    background-image: url(./soft-pastel-smoky-gradient-background-featuring-smooth-transitions-colors-foggy-colorful-wallpaper-delicate-blend-323762478.webp);
+    background-size:cover;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 2rem;
+}
+
+h1{
+    font-size: 100px;
+    color:black;
+    text-align: center;
+}
+#new-task{
+    width: 50%;
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+    margin: 2rem;
+}
+li{
+    border: black, 2px, solid;
+}
